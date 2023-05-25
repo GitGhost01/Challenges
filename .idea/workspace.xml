@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6b2116-bbe4-4e8e-b96a-dbdd2b29cacb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RemoveFirstAndLastCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubtractListFromAnotherList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q7OEi24zCH0pVWP1oBrRkLV11G" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
